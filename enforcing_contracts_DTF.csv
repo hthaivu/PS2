@@ -1,175 +1,175 @@
-country,contracts
-Afghanistan,31.76
-Albania,53.66
-Algeria,55.49
-Angola,26.26
-Antigua and Barbuda,68.11
-Argentina,64.81
-Armenia,67.85
-Australia,79.72
-Austria,75.49
-Azerbaijan,65.66
-"Bahamas, The",59.43
-Bahrain,54.53
-Bangladesh,22.21
-Bangladesh - Chittagong,22.21
-Bangladesh - Dhaka,22.21
-Barbados,38.02
-Belarus,70.36
-Belgium,64.25
-Belize,50.11
-Benin,36.34
-Bhutan,65.36
-Bolivia,49.72
-Bosnia and Herzegovina,60.6
-Botswana,50.95
-Brazil,65.55
-Brazil - Rio de Janeiro,67.25
-Brazil - São Paulo,64.47
-Brunei Darussalam,53.54
-Bulgaria,67.04
-Burkina Faso,41.05
-Burundi,45.74
-Cabo Verde,65.76
-Cambodia,32.67
-Cameroon,41.76
-Canada,56.54
-Central African Republic,30.46
-Chad,44.58
-Chile,62.81
-China,77.98
-China - Beijing,75.41
-China - Shanghai,80.08
-Colombia,32.43
-Comoros,32.05
-"Congo, Dem Rep",36.06
-"Congo, Rep",43.99
-Costa Rica,52.41
-Cote d’Ivoire,52.97
-Croatia,75.87
-Cyprus,48.59
-Czech Republic,60.36
-Denmark,71.23
-Djibouti,28.39
-Dominica,59.17
-Dominican Republic,51.03
-Ecuador,56.68
-"Egypt, Arab Rep",40.9
-El Salvador,55.2
-Equatorial Guinea,55.25
-Eritrea,52.75
-Estonia,75.16
-Ethiopia,59.06
-Fiji,58.44
-Finland,69.4
-France,73.04
-Gabon,35.29
-"Gambia, The",54.84
-Georgia,73.21
-Germany,73.72
-Ghana,54
-Greece,50.19
-Grenada,59.33
-Guatemala,34.55
-Guinea,53.87
-Guinea-Bissau,38.81
-Guyana,57.62
-Haiti,52.49
-Honduras,45.54
-"Hong Kong SAR, China",72.57
-Hungary,70.05
-Iceland,69.1
-India,32.41
-India - Delhi,32.41
-India - Mumbai,32.41
-Indonesia,35.37
-Indonesia - Jakarta,36.08
-Indonesia - Surabaya,32.86
-"Iran, Islamic Rep",60
-Iraq,48.94
-Ireland,57.88
-Israel,57.93
-Italy,54.79
-Jamaica,53.6
-Japan,65.26
-Japan - Osaka,65.26
-Japan - Tokyo,65.26
-Jordan,52.42
-Kazakhstan,75.7
-Kenya,58.27
-Kiribati,53.39
-"Korea, Rep",84.15
-Kosovo,65.66
-Kuwait,60.51
-Kyrgyz Republic,48.57
-Lao PDR,58.07
-Latvia,71.66
-Lebanon,51.7
-Lesotho,57.18
-Liberia,33.92
-Libya,48.41
-Lithuania,77.88
-Luxembourg,73.32
-"Macedonia, FYR",70.46
-Madagascar,42.85
-Malawi,47.09
-Malaysia,66.61
-Maldives,55.07
-Mali,43.73
-Malta,62.17
-Marshall Islands,55.93
-Mauritania,58.58
-Mauritius,68.65
-Mexico,65.69
-Mexico - Mexico City,64.09
-Mexico - Monterrey,73.51
-"Micronesia, Fed Sts",29.39
-Moldova,59.94
-Mongolia,58.48
-Montenegro,66.75
-Morocco,62.34
-Mozambique,27.32
-Myanmar,24.53
-Namibia,56.03
-Nepal,45.26
-Netherlands,59.94
-New Zealand,74.25
-Nicaragua,57.79
-Niger,41.85
-Nigeria,48.59
-Nigeria - Kano,46.07
-Nigeria - Lagos,49.34
-Norway,77.14
-Oman,61.55
-Pakistan,43.49
-Pakistan - Karachi,44.36
-Pakistan - Lahore,41.86
-Palau,52.21
-Panama,48.1
-Papua New Guinea,36.21
-Paraguay,59.77
-Peru,60.7
-Philippines,49.24
-Poland,63.44
-Portugal,73.01
-Puerto Rico US,56.13
-Qatar,52.79
-Romania,72.25
-Russian Federation,75.78
-Russian Federation - Moscow,76.26
-Russian Federation - Saint Petersburg,74.66
-Rwanda,53.06
-Samoa,60.44
-San Marino,59.25
-São Tomé and Príncipe,31.21
-Saudi Arabia,55.07
-Senegal,48.15
-Serbia,63.96
-Seychelles,49.39
-Sierra Leone,55.92
-Singapore,83.61
-Slovak Republic,58.92
-Slovenia,52.97
+country,contracts14
+Afghanistan,29.79
+Albania,56.84
+Algeria,52.89
+Angola,25.22
+Antigua and Barbuda,56.19
+Argentina,61.97
+Armenia,52.58
+Australia,77.06
+Austria,80.65
+Azerbaijan,69.02
+"Bahamas, The",49.82
+Bahrain,52.33
+Bangladesh,20.82
+Bangladesh - Chittagong,20.82
+Bangladesh - Dhaka,20.82
+Barbados,41.61
+Belarus,78.7
+Belgium,77.67
+Belize,37.38
+Benin,35.46
+Bhutan,70.05
+Bolivia,54.93
+Bosnia and Herzegovina,56.89
+Botswana,64.02
+Brazil,52.03
+Brazil - Rio de Janeiro,52.67
+Brazil - São Paulo,51.62
+Brunei Darussalam,47.76
+Bulgaria,64.27
+Burkina Faso,43.83
+Burundi,42.15
+Cabo Verde,67.61
+Cambodia,32.79
+Cameroon,42.11
+Canada,63.76
+Central African Republic,31.62
+Chad,45.05
+Chile,63.85
+China,68.21
+China - Beijing,66.15
+China - Shanghai,69.89
+Colombia,37.66
+Comoros,33.2
+"Congo, Dem Rep",33.51
+"Congo, Rep",44.11
+Costa Rica,51.13
+Cote d’Ivoire,60.24
+Croatia,63.72
+Cyprus,54.17
+Czech Republic,68
+Denmark,68.79
+Djibouti,37.31
+Dominica,45.17
+Dominican Republic,60.64
+Ecuador,58.3
+"Egypt, Arab Rep",44.02
+El Salvador,60.06
+Equatorial Guinea,63.23
+Eritrea,62.7
+Estonia,68.91
+Ethiopia,65.43
+Fiji,64.34
+Finland,73.45
+France,77.67
+Gabon,43.51
+"Gambia, The",65.49
+Georgia,71.82
+Germany,76.74
+Ghana,57.59
+Greece,43.65
+Grenada,46.25
+Guatemala,46.35
+Guinea,49.74
+Guinea-Bissau,37.54
+Guyana,62.37
+Haiti,59.32
+Honduras,37.9
+"Hong Kong SAR, China",80.32
+Hungary,67.62
+Iceland,82.3
+India,25.81
+India - Delhi,25.81
+India - Mumbai,25.81
+Indonesia,37.28
+Indonesia - Jakarta,37.59
+Indonesia - Surabaya,36.22
+"Iran, Islamic Rep",63.35
+Iraq,47.32
+Ireland,75.47
+Israel,52.61
+Italy,45.61
+Jamaica,56.61
+Japan,73.25
+Japan - Osaka,73.25
+Japan - Tokyo,73.25
+Jordan,54.04
+Kazakhstan,68.29
+Kenya,50.98
+Kiribati,64.15
+"Korea, Rep",79.17
+Kosovo,46.13
+Kuwait,52.28
+Kyrgyz Republic,56.78
+Lao PDR,56.45
+Latvia,75.59
+Lebanon,55.4
+Lesotho,53.94
+Liberia,35.43
+Libya,51.42
+Lithuania,72.9
+Luxembourg,85.7
+"Macedonia, FYR",58.31
+Madagascar,45.91
+Malawi,43.73
+Malaysia,69.39
+Maldives,55.53
+Mali,51.25
+Malta,56.27
+Marshall Islands,58.82
+Mauritania,58.47
+Mauritius,64.91
+Mexico,63.84
+Mexico - Mexico City,63.16
+Mexico - Monterrey,67.14
+"Micronesia, Fed Sts",40.85
+Moldova,66.68
+Mongolia,70.17
+Montenegro,49.62
+Morocco,60.14
+Mozambique,34.61
+Myanmar,27.31
+Namibia,64.82
+Nepal,49.65
+Netherlands,75.1
+New Zealand,77.84
+Nicaragua,62.42
+Niger,49.95
+Nigeria,47.71
+Nigeria - Kano,46.54
+Nigeria - Lagos,48.06
+Norway,78.41
+Oman,50.67
+Pakistan,40.32
+Pakistan - Karachi,40.54
+Pakistan - Lahore,39.9
+Palau,51.28
+Panama,58.87
+Papua New Guinea,31.92
+Paraguay,57.8
+Peru,57.46
+Philippines,52.02
+Poland,64.83
+Portugal,69.95
+Puerto Rico US,57.75
+Qatar,56.73
+Romania,66.11
+Russian Federation,75.25
+Russian Federation - Moscow,75.73
+Russian Federation - Saint Petersburg,74.13
+Rwanda,65.44
+Samoa,57.78
+San Marino,68.85
+São Tomé and Príncipe,32.37
+Saudi Arabia,54.82
+Senegal,45.71
+Serbia,57.59
+Seychelles,55.88
+Sierra Leone,55.68
+Singapore,89.16
+Slovak Republic,64.68
+Slovenia,52.4
 Solomon Islands,44.63
 Somalia,54.58
 South Africa,54.1
